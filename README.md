@@ -190,13 +190,13 @@ contact:
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Ahmed4Shawky/keylogger">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed4Shawky&repo=keylogger&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&show_owner=true" width="100%" alt="KeystrokeGuard"/>
+<a href="https://github.com/Ahmed4Shawky/RSA_DECRYPT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed4Shawky&repo=RSA_DECRYPT&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&show_owner=true" width="100%" alt="RSA_DECRYPT"/>
 </a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Ahmed4Shawky/RSA_DECRYPT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed4Shawky&repo=RSA_DECRYPT&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&show_owner=true" width="100%" alt="RSA_DECRYPT"/>
+<a href="https://github.com/Ahmed4Shawky/CIPHERWeb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed4Shawky&repo=CIPHERWeb&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&show_owner=true" width="100%" alt="CIPHERWeb"/>
 </a>
 </td>
 </tr>
@@ -204,7 +204,48 @@ contact:
 
 </div>
 
-### 🚧 Upcoming Projects
+### 🔥 Project Details
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔐 RSA_DECRYPT
+**Cryptographic analysis toolkit**
+
+**Features:**
+- 🔹 RSA Decryption Engine
+- 🔹 Advanced Key Analysis
+- 🔹 Cryptographic Utilities
+- 🔹 Educational Framework
+
+**Tech Stack:** `Python` `Cryptography Libraries` `Mathematical Analysis`
+
+**Use Case:** Educational cryptographic analysis & research
+
+**Status:** ✅ Production Ready
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 CIPHERWeb
+**Web penetration testing toolkit**
+
+**Features:**
+- 🔹 Automated Reconnaissance
+- 🔹 Vulnerability Scanning
+- 🔹 Web Security Assessment
+- 🔹 Security Testing Tools
+
+**Tech Stack:** `Shell` `Python` `Web Security`
+
+**Use Case:** Web application security testing
+
+**Status:** ✅ Production Ready
+
+</td>
+</tr>
+</table>
 
 ```text
 📌 Web Vulnerability Scanner
